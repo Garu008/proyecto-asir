@@ -2,7 +2,7 @@
 
 PIMA · 1.º ASIR · UD02 · Sesión 6 · 24/11/2026
 
-**Alias o iniciales:** …
+**Alias o iniciales:** DST
 
 > Este archivo se publica en tu repositorio. Escribe solo tu alias o tus iniciales: ni nombre completo, ni correo, ni teléfono.
 
@@ -57,9 +57,9 @@ Tipos de empresa que puedes usar: venta y distribución · soporte y mantenimien
 
 | Empresa | Actividad principal | Producto o servicio que ofrece | Tipo de empresa | Característica organizativa (con un dato del caso) |
 |---|---|---|---|---|
-| A · TecnoTienda | … | … | … | … |
-| B · RedesMancha | … | … | … | … |
-| C · Aplicaciones Centro | … | … | … | … |
+| A · TecnoTienda | Venta y reparación de dispositivos | Tablets, móviles, ordenadores, etc | Empresa de reparación y venta | Tienda muy pequeña (5 personas) |
+| B · RedesMancha | Administración de redes | Montaje de redes y configuración de servidores | Empresa de administración de redes y servidores | Empresa pequeñita también (12 personas) |
+| C · Aplicaciones Centro | Desarrollo de aplicaciones | Desarrollo de aplicaciones de gestión a medida | Empresa de desarrollo de aplicaciones | Empresa bastante bien repartida (6 roles) |
 
 ## Parte B · Organización y funciones
 
